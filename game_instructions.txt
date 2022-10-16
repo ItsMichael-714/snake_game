@@ -1,0 +1,3 @@
+use the arrow keys to navigate the snake.
+
+don't hit the walls or your tail!
